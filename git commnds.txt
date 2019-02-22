@@ -10,3 +10,6 @@ git config --list
 
 edit global config:
 git config --global --edit
+
+
+wjdhedbw
