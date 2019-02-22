@@ -1,0 +1,12 @@
+set origin:
+git remote add origin https://github.com/shreyshi/learn2.git
+
+push:
+git push -u origin master
+
+config list:
+git config --list
+
+
+edit global config:
+git config --global --edit
