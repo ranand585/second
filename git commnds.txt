@@ -13,3 +13,6 @@ git config --global --edit
 
 reset cmd for undoing the staged files:
 git reset --mixed
+
+resets last 2 commits and points the head backward by 2 commits
+git reset --hard HEAD~2
